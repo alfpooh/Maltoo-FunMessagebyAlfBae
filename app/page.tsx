@@ -406,7 +406,7 @@ export default function TextTransformerApp() {
           </CardContent>
         </Card>
 
-        <div className="text-center text-xs text-muted-foreground">Made with 💖 by AI Text Transformer</div>
+        <div className="text-center text-xs text-muted-foreground">Made by Alf Bae, 2025</div>
       </div>
     </div>
   )
